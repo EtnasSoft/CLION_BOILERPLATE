@@ -1,0 +1,3 @@
+C:/Users/EtnasSoft/CLionProjects/prueba2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EtnasSoft/CLionProjects/prueba2/cmake-build-debug/CMakeFiles/CLION_BOILERPLATE.dir
+C:/Users/EtnasSoft/CLionProjects/prueba2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

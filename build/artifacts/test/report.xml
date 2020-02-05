@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests>
+		<Test id="1">
+			<Name>test/test_myLibrary.c::test_sum</Name>
+			<FailureType>Assertion</FailureType>
+			<Location>
+				<File>test/test_myLibrary.c</File>
+				<Line>15</Line>
+			</Location>
+			<Message>Expected 60 Was 30</Message>
+		</Test>
+	</FailedTests>
+	<SuccessfulTests/>
+	<IgnoredTests/>
+	<Statistics>
+		<Tests>1</Tests>
+		<Ignores>0</Ignores>
+		<FailuresTotal>1</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>1</Failures>
+	</Statistics>
+</TestRun>
